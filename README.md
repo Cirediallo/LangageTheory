@@ -15,3 +15,5 @@ Implementation made in *Java*
 3. Convert it to a DFA
 4. Move to ***Finite automaton*** to ***Regex***
 5. Move to ***Regex*** to ***Finite automaton***
+
+## Note: Other parts will be commited (done but not commited)
